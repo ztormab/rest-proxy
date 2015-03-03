@@ -9,10 +9,9 @@
         }
     ],
     "require": {
-        "php": ">=5.5.0",
         "ext-curl": "*",
-        "symfony/http-foundation": "dev-master",
-        "symfony/expression-language": "dev-master"
+        "symfony/http-foundation": "*",
+        "symfony/expression-language": "*"
     },
     "autoload": {
         "psr-4": {
